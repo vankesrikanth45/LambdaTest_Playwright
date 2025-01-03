@@ -10,8 +10,8 @@ import com.google.gson.JsonObject;
         JsonObject capabilities1 = new JsonObject();
         JsonObject ltOptions1 = new JsonObject();
 
-        String user = "likhitha-reddy.reddivari";
-        String accessKey = "fF4DSuVTCJG96CGEgtmcuVicPmjSbwbNfe8Iu6GVsUUmsB6VCF";
+        String user = "srikanth.vankegmail";
+        String accessKey = "qUJdi3LIh0g7vM5uRqeLkkD8FzV3i5Ob46UF7Qf1q1T4fvf5Vv";
 
         capabilities1.addProperty("browserName", "Chrome"); // Browsers allowed: `Chrome`, `MicrosoftEdge`, `pw-chromium`, `pw-firefox` and `pw-webkit`
         capabilities1.addProperty("browserVersion", "latest");
